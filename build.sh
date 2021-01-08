@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --no-cache -t arkcluster .
+docker build --no-cache -t amaterasu/arkcluster .
